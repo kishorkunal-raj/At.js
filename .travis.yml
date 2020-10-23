@@ -14,3 +14,6 @@ before_script:
   - npm install -g gulp
   - npm install -g bower
   - bower install
+arch:
+  - amd64
+  - ppc64le
